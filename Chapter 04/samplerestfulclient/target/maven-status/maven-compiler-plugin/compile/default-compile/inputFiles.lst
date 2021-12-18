@@ -1,0 +1,7 @@
+/home/rhsilva/workspace/papers/book_jakartaee8/chapter_4/samplerestfulclient/src/main/java/net/rhuanrocha/samplerestfulclient/JAXRSConfiguration.java
+/home/rhsilva/workspace/papers/book_jakartaee8/chapter_4/samplerestfulclient/src/main/java/net/rhuanrocha/samplerestfulclient/services/EmailService.java
+/home/rhsilva/workspace/papers/book_jakartaee8/chapter_4/samplerestfulclient/src/main/java/net/rhuanrocha/samplerestfulclient/services/ChatService.java
+/home/rhsilva/workspace/papers/book_jakartaee8/chapter_4/samplerestfulclient/src/main/java/net/rhuanrocha/samplerestfulclient/resources/ChatEndpoint.java
+/home/rhsilva/workspace/papers/book_jakartaee8/chapter_4/samplerestfulclient/src/main/java/net/rhuanrocha/samplerestfulclient/services/UserService.java
+/home/rhsilva/workspace/papers/book_jakartaee8/chapter_4/samplerestfulclient/src/main/java/net/rhuanrocha/samplerestfulclient/resources/EmailResource.java
+/home/rhsilva/workspace/papers/book_jakartaee8/chapter_4/samplerestfulclient/src/main/java/net/rhuanrocha/samplerestfulclient/dtos/UserDto.java

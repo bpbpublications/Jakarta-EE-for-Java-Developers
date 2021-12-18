@@ -1,0 +1,7 @@
+net/rhuanrocha/entities/Book.class
+net/rhuanrocha/resources/BookResource.class
+net/rhuanrocha/JAXRSConfiguration.class
+net/rhuanrocha/resources/AuthorResource.class
+net/rhuanrocha/business/BookBusiness.class
+net/rhuanrocha/business/AuthorBusiness.class
+net/rhuanrocha/entities/Author.class

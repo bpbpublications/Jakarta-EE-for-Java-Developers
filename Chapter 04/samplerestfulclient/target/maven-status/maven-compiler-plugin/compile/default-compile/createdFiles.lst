@@ -1,0 +1,7 @@
+net/rhuanrocha/samplerestfulclient/services/EmailService.class
+net/rhuanrocha/samplerestfulclient/services/ChatService.class
+net/rhuanrocha/samplerestfulclient/services/UserService.class
+net/rhuanrocha/samplerestfulclient/dtos/UserDto.class
+net/rhuanrocha/samplerestfulclient/resources/EmailResource.class
+net/rhuanrocha/samplerestfulclient/JAXRSConfiguration.class
+net/rhuanrocha/samplerestfulclient/resources/ChatEndpoint.class

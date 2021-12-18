@@ -1,0 +1,4 @@
+net/rhuanrocha/stateless/ProductBusiness.class
+net/rhuanrocha/JAXRSConfiguration.class
+net/rhuanrocha/entity/Product.class
+net/rhuanrocha/endpoint/ProductEndpoint.class

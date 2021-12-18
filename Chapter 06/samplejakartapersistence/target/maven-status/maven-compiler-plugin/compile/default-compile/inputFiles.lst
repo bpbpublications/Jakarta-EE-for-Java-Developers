@@ -1,0 +1,7 @@
+/home/rhsilva/workspace/papers/book_jakartaee8/chapter_6/samplejakartapersistence/src/main/java/net/rhuanrocha/entities/Book.java
+/home/rhsilva/workspace/papers/book_jakartaee8/chapter_6/samplejakartapersistence/src/main/java/net/rhuanrocha/entities/Author.java
+/home/rhsilva/workspace/papers/book_jakartaee8/chapter_6/samplejakartapersistence/src/main/java/net/rhuanrocha/JAXRSConfiguration.java
+/home/rhsilva/workspace/papers/book_jakartaee8/chapter_6/samplejakartapersistence/src/main/java/net/rhuanrocha/business/AuthorBusiness.java
+/home/rhsilva/workspace/papers/book_jakartaee8/chapter_6/samplejakartapersistence/src/main/java/net/rhuanrocha/resources/AuthorResource.java
+/home/rhsilva/workspace/papers/book_jakartaee8/chapter_6/samplejakartapersistence/src/main/java/net/rhuanrocha/business/BookBusiness.java
+/home/rhsilva/workspace/papers/book_jakartaee8/chapter_6/samplejakartapersistence/src/main/java/net/rhuanrocha/resources/BookResource.java

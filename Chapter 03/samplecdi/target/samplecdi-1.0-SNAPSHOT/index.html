@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Test Conversation Scope</title>
+</head>
+<body>
+    <form action="/samplecdi-1.0-SNAPSHOT/testconversationscope" method="post">
+        <button type="submit">Increase Item</button>
+    </form>
+
+    <form action="/samplecdi-1.0-SNAPSHOT/testconversationscope?action=startConversation" method="post">
+        <button type="submit">Start Conversation</button>
+    </form>
+
+    <form action="/samplecdi-1.0-SNAPSHOT/testconversationscope?action=endConversation" method="post">
+        <button type="submit">End Conversation</button>
+    </form>
+
+</body>
+</html>
